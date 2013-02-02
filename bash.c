@@ -1,7 +1,5 @@
 // Long Nguyen
-// CS240 
 // Spring 2012
-// Assignment 3
 // Build a bash-liked shell
 // New features added: aliasing, history, and pipe
 // list of new commands: alias, unalias, history, and |
